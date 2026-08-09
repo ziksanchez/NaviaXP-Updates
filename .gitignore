@@ -1,0 +1,4 @@
+﻿# Las APK NO se commitean: van como archivos adjuntos de cada release.
+# Commitearlas dejaria 33 MB por version dentro del historial para siempre, y
+# quien clone el repositorio se los descargaria todos.
+*.apk
