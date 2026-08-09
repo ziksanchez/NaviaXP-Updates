@@ -9,15 +9,9 @@ Este repositorio es solo el canal de descarga. Cada versión se publica en
 
 ## Descarga
 
-Ve a [Releases](../../releases) y baja el archivo `.apk`.
+Ve a [Releases](../../releases) y baja `NaviaXP-<version>-release.apk`.
 
-| Archivo | Cuándo |
-|---|---|
-| `NaviaXP-<version>-universal-release.apk` | Funciona en cualquier teléfono |
-| `NaviaXP-<version>-arm64-v8a-release.apk` | Si sabes que tu teléfono es de 64 bits y quieres ahorrar espacio |
-| `NaviaXP-<version>-armeabi-v7a-release.apk` | Teléfonos antiguos de 32 bits |
-
-Si no sabes cuál, baja la **universal**.
+Es un único archivo y funciona en cualquier teléfono.
 
 ## Requisitos
 
@@ -61,9 +55,8 @@ inglés en cualquier otro caso. Se puede forzar en **Ajustes → Idioma**.
 Android player for games made with RPG Maker and Essentials. This repository
 is the download channel only — grab the `.apk` from [Releases](../../releases).
 
-Pick the **universal** build unless you know your device's architecture.
-Requires Android 6.0 or newer. No games are included: point the app at a folder
-containing `Game.ini`.
+One file, works on any phone. Requires Android 6.0 or newer. No games are
+included: point the app at a folder containing `Game.ini`.
 
 The app follows your phone's language — Spanish if your phone is in Spanish,
 English otherwise. You can force one in **Settings → Language**.
