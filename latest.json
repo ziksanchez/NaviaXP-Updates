@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "0.1.3",
-  "url": "https://github.com/ziksanchez/NaviaXP-Updates/releases/download/0.1.3/NaviaXP-0.1.3-release.apk",
-  "notas": "Libera memoria mientras estas quieto: se acabaron los parones de varios segundos al cambiar de mapa en juegos antiguos.",
-  "notes": "Frees memory while you stand still: no more multi-second freezes when changing maps in older games."
+  "versionCode": 16,
+  "versionName": "0.1.4",
+  "url": "https://github.com/ziksanchez/NaviaXP-Updates/releases/download/0.1.4/NaviaXP-0.1.4-release.apk",
+  "notas": "- Se agrega un parche nuevo para los juegos donde salga el texto sobrepuesto entre sí.\n- Se agrega un comprobador para revisar cuando haya nuevas actualizaciones.\n- Arreglos menores.",
+  "notes": "- New patch for games where text draws on top of itself.\n- Adds a checker that looks for new updates.\n- Minor fixes."
 }
