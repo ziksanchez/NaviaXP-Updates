@@ -1,7 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "0.2.0",
-  "url": "https://github.com/ziksanchez/NaviaXP-Updates/releases/download/0.2.0/NaviaXP-0.2.0-release.apk",
-  "notas": "- Se mejora el rendimiento en ciertos juegos que usan Ruby 1.8.\n- Se agrega un motor nuevo llamado \"Ruby 1.8 - C2\" que en ciertos juegos que usan ese Ruby aumenta más la estabilidad y rendimiento. Pero es más propenso a fallar. Se irá mejorando a futuro.\n- Se hacen correcciones menores a la aplicación.\n- Se agrega un nuevo botón para regenerar la Ruta de caché (rara vez se usará).\n- Se agrega el Francés como idioma disponible.\n- Se agrega compatibilidad con más juegos.",
-  "notes": "- Better performance in some games that use Ruby 1.8.\n- Adds a new engine called \"Ruby 1.8 - C2\" that, in some games using that Ruby, brings more stability and performance. But it is more prone to failing. It will keep improving over time.\n- Minor fixes to the app.\n- Adds a new button to rebuild the path cache (rarely needed).\n- Adds French as an available language.\n- Adds compatibility with more games."
+  "versionCode": 18,
+  "versionName": "0.2.1",
+  "url": "https://github.com/ziksanchez/NaviaXP-Updates/releases/download/0.2.1/NaviaXP-0.2.1-release.apk",
+  "notas": "- Se corrige que los juegos que usaban Ruby 1.8 se cerraran después de jugar un rato.\n- Se corrigen ciertos bugs que ocurrían con el teclado virtual a la hora de ingresar texto.\n- Se corrigen bugs y se mejora la compatibilidad en varios juegos.",
+  "notes": "- Fixes games that use Ruby 1.8 closing after playing for a while.\n- Fixes some bugs with the virtual keyboard when entering text.\n- Fixes bugs and improves compatibility with several games.",
+  "notes_fr": "- Corrige la fermeture des jeux utilisant Ruby 1.8 après un moment de jeu.\n- Corrige certains bugs du clavier virtuel lors de la saisie de texte.\n- Corrige des bugs et améliore la compatibilité avec plusieurs jeux."
 }
